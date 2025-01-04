@@ -187,7 +187,7 @@ The application uses Framer Motion for smooth animations:
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithub](https://github.com/mohitkr04)
+- Mohit Kumar - Initial work - [mohitkr04](https://github.com/mohitkr04)
 
 ## 🙏 Acknowledgments
 
